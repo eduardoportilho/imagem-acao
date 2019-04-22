@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import './App.css';
 
 const categorias = [
   {id: 'P', descricao: 'Pessoa, Lugar ou Animal'},

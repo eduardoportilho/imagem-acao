@@ -55,19 +55,19 @@
 }
 
 .pino-arcoiro {
-  background-image: url(/icons/arcoiro.svg);
+  background-image: url(./icons/arcoiro.svg);
 }
 
 .pino-abacalino {
-  background-image: url(/icons/abacalino.svg);
+  background-image: url(./icons/abacalino.svg);
 }
 
 .pino-etezudo {
-  background-image: url(/icons/etezudo.svg);
+  background-image: url(./icons/etezudo.svg);
 }
 
 .pino-fernanda {
-  background-image: url(/icons/fernanda.svg);
+  background-image: url(./icons/fernanda.svg);
 }
 
 .casa-P { color: limegreen; transform: rotate(15deg); }
@@ -78,7 +78,7 @@
 .casa-T { color: gray; transform: rotate(15deg); }
 
 .dice-btn {
-  background-image: url(/icons/dice.png);
+  background-image: url(./icons/dice.png);
   width: 32px;
   height: 32px;
   border: 0;
